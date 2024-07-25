@@ -1,0 +1,11 @@
+.idea
+.vscode
+
+__pycache__
+
+build
+data
+dist
+venv
+
+.DS_Store
